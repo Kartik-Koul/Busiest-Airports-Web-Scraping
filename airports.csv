@@ -1,0 +1,51 @@
+Rank,Name,City,State/UT,IATA Code,Passengers in 2022-23,Passengers in 2021-22,% Change,Rank Change
+1,Indira Gandhi International Airport,Delhi NCR,Delhi,DEL,"65,327,833","39,339,998",66.1,
+2,Chhatrapati Shivaji Maharaj International Airport,Mumbai,Maharashtra,BOM,"43,930,298","21,747,892",102.0,
+3,Kempegowda International Airport,Bengaluru,Karnataka,BLR,"31,911,429","16,287,097",95.9,
+4,Rajiv Gandhi International Airport,Hyderabad,Telangana,HYD,"20,996,027","12,429,796",68.9,
+5,Chennai International Airport,Chennai,Tamil Nadu,MAA,"18,571,393","9,533,301",94.8,1
+6,Netaji Subhas Chandra Bose International Airport,Kolkata,West Bengal,CCU,"17,768,862","11,036,108",61.0,1
+7,Sardar Vallabhbhai Patel International Airport,Ahmedabad,Gujarat,AMD,"10,137,001","5,670,896",78.8,
+8,Cochin International Airport,Kochi,Kerala,COK,"8,812,531","4,717,777",86.8,1
+9,Dabolim Airport,Dabolim,Goa,GOI,"8,359,393","5,238,051",59.6,1
+10,Pune Airport,Pune,Maharashtra,PNQ,"8,007,160","3,713,491",115.6,
+11,Chaudhary Charan Singh International Airport,Lucknow,Uttar Pradesh,LKO,"5,220,528","3,303,960",58.0,
+12,Lokpriya Gopinath Bordoloi International Airport,Guwahati,Assam,GAU,"5,051,480","3,148,956",60.4,1
+13,Jaipur International Airport,Jaipur,Rajasthan,JAI,"4,764,382","2,943,171",61.9,2
+14,Srinagar International Airport,Srinagar,Jammu and Kashmir,SXR,"4,409,665","3,158,400",39.6,2
+15,Jay Prakash Narayan Airport,Patna,Bihar,PAT,"3,748,635","2,967,681",26.3,1
+16,Chandigarh Airport,Chandigarh,Chandigarh,IXC,"3,677,786","2,289,169",60.7,
+17,Biju Patnaik International Airport,Bhubaneswar,Odisha,BBI,"3,624,905","2,135,893",69.7,
+18,Trivandrum International Airport,Thiruvananthapuram,Kerala,TRV,"3,478,067","1,655,506",110.1,4
+19,Calicut International Airport,Kozhikode,Kerala,CCJ,"2,982,879","1,665,145",79.1,2
+20,Devi Ahilyabai Holkar International Airport,Indore,Madhya Pradesh,IDR,"2,828,587","1,629,668",73.6,3
+21,Dr. Babasaheb Ambedkar International Airport,Nagpur,Maharashtra,NAG,"2,565,155","1,605,433",59.8,4
+22,Coimbatore International Airport,Coimbatore,Tamil Nadu,CJB,"2,557,263","1,285,922",98.9,6
+23,Bagdogra International Airport,Siliguri,West Bengal,IXB,"2,555,305","1,980,049",29.1,5
+24,Lal Bahadur Shastri International Airport,Varanasi,Uttar Pradesh,VNS,"2,521,442","1,708,220",47.6,4
+25,Sri Guru Ram Dass Jee International Airport,Amritsar,Punjab,ATQ,"2,516,518","1,382,004",82.1,2
+26,Visakhapatnam International Airport,Visakhapatnam,Andhra Pradesh,VTZ,"2,500,654","1,610,483",55.3,2
+27,Birsa Munda Airport,Ranchi,Jharkhand,IXR,"2,417,774","1,723,237",40.3,8
+28,Swami Vivekananda Airport,Raipur,Chhattisgarh,RPR,"2,251,998","1,407,157",60.0,2
+29,Mangalore International  Airport,Mangalore,Karnataka,IXE,"1,809,266","1,013,453",78.5,2
+30,Jolly Grant Airport,Dehradun,Uttarakhand,DED,"1,595,977","917,949",73.9,3
+31,Jammu Airport,Jammu,Jammu and Kashmir,IXJ,"1,579,519","1,273,288",24.1,2
+32,Tiruchirappalli International Airport,Tiruchirappalli,Tamil Nadu,TRZ,"1,514,260","556,707",172.0,15
+33,Maharaja Bir Bikram Airport,Agartala,Tripura,IXA,"1,386,087","901,206",53.8,2
+34,Maharana Pratap Airport,Udaipur,Rajasthan,UDR,"1,355,215","917,938",47.6,
+35,Veer Savarkar Airport,Port Blair,Andaman and Nicobar,IXZ,"1,273,138","761,610",67.2,4
+36,Leh Kushok Bakula Rimpochee Airport,Leh,Ladakh,IXL,"1,260,725","1,050,714",20.0,6
+37,Kannur International Airport,Kannur,Kerala,CNN,"1,257,086","799,122",57.3,
+38,Surat International Airport,Surat,Gujarat,STV,"1,239,913","933,817",32.8,6
+39,Imphal Airport,Imphal,Manipur,IMF,"1,233,997","814,913",51.4,3
+40,Madurai Airport,Madurai,Tamil Nadu,IXM,"1,138,005","679,781",67.4,1
+41,Bhopal Airport,Bhopal,Madhya Pradesh,BHO,"1,135,781","733,236",54.9,1
+42,Vadodara Airport,Vadodara,Gujarat,BDQ,"1,088,990","575,690",89.2,4
+43,Vijayawada International Airport,Vijayawada,Andhra Pradesh,VGA,"966,383","625,131",54.6,1
+44,Tirupati Airport,Tirupati,Andhra Pradesh,TIR,"919,267","623,341",47.5,1
+45,Jodhpur Airport,Jodhpur,Rajasthan,JDH,"899,403","768,227",17.1,7
+46,Rajkot Airport,Rajkot,Gujarat,RAJ,"770,605","420,372",83.3,4
+47,Shirdi Airport,Shirdi,Maharashtra,SAG,"733,038","176,787",314.6,10
+48,Gorakhpur Airport,Gorakhpur,Uttar Pradesh,GOP,"717,819","602,820",19.1,3
+49,Dibrugarh Airport,Dibrugarh,Assam,DIB,"675,304","525,925",28.4,2
+50,Manohar International Airport,Mopa,Goa,GOX,"664,160",New,NA,NA
